@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>试一试</title>
-      <link href="/2020/07/17/%E8%AF%95%E4%B8%80%E8%AF%95/"/>
-      <url>/2020/07/17/%E8%AF%95%E4%B8%80%E8%AF%95/</url>
+      <title>最初的尝试</title>
+      <link href="/2020/07/17/%E5%8D%9A%E5%AE%A2%E5%B0%9D%E8%AF%95%E4%B9%8B%E6%97%85/"/>
+      <url>/2020/07/17/%E5%8D%9A%E5%AE%A2%E5%B0%9D%E8%AF%95%E4%B9%8B%E6%97%85/</url>
       
-        <content type="html"><![CDATA[<p><img src= "/img/loading.gif" data-src="https://gitee.com/alanjones/blog/raw/master/20200717221523.png" alt="img"></p><p><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200417133333572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RhdGFpeWFuZ3U=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p><img src= "/img/loading.gif" data-src="https://img-blog.csdnimg.cn/20200419234502191.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RhdGFpeWFuZ3U=,size_16,color_FFFFFF,t_70" alt="img"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="我的第一篇博文"><a href="#我的第一篇博文" class="headerlink" title="我的第一篇博文"></a>我的第一篇博文</h1><h2 id="搭建经历"><a href="#搭建经历" class="headerlink" title="搭建经历"></a>搭建经历</h2><p>之前从没想过要搭建自己的博客，总认为依托一个比较大的平台，我只负责写文字就是最好的。（<del>其实现在我还是觉得如果能够这样那就太棒了</del>）但这几次的风波过后，我也慢慢感觉可能需要一个这样独属于我自己的空间。</p><h3 id="网页创建"><a href="#网页创建" class="headerlink" title="网页创建"></a>网页创建</h3><p>小白没办法啊，只能一步一步的按照教程走。很感谢那些无偿写详细教程的人们，给我搭建博客之路很大的便利。我按照规则创建了GitHub账号，有了第一个仓库。又下载了node.js，git bash这些工具，完全是按图索骥的摸索成功了。</p><h3 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h3><p>这一步整整困扰了我很久，失败了很多次。</p><p>其实我一开始就选定了butterfly主题，并且按照大佬的教程差不多都快搭建好了。但是这时候我的图片一直加载不上，无论怎么改，头像，背景都换不了。我请教了别人，也只能治标不治本的在网页版上换了，实际本地部署还有很大的问题。于是我把文件全删了重开。</p><h3 id="重开陷入选择困难"><a href="#重开陷入选择困难" class="headerlink" title="重开陷入选择困难"></a>重开陷入选择困难</h3><p>当我重新开始时，第一次没经验，几乎从头来了一遍（不过还好，也学了不少东西，后续操作也比以前流畅很多了），重头来过后尝试了各种主题。但还是兜兜转转回到原点，毕竟这个一直都有人在维护，而且又非常详细的入门教程，对新手很友好。</p><h3 id="核心问题"><a href="#核心问题" class="headerlink" title="核心问题"></a>核心问题</h3><p>但是，重开一遍的我又回到最初的起点。主题文件下的修改是无效的，无论怎么在后期修改调整，页面上都没有变化。然后我就在个大搜索引擎上找相关解释，但没有一个人和我一样有这种情况。正当各种焦头烂额之际，论坛上的一篇关于source文件夹的覆盖能力的文章启发了我（这里还要感谢很多大佬的帮忙，为了给人家看情况我又get到了一个好用的录屏软件bandicam），终于想办法自己解决了核心问题。之后的路就顺畅好多。</p><h3 id="完善框架"><a href="#完善框架" class="headerlink" title="完善框架"></a>完善框架</h3><p>之后就是装各种插件完善博客功能了。</p><p>因为我暂时没想好要不要开放博客，所以没有设置评论区，也没有完善其他网页相关还在一步步探索博客的新功能。</p><h3 id="博文发布"><a href="#博文发布" class="headerlink" title="博文发布"></a>博文发布</h3><p>博文的发布是markdown语言，而且不支持实施浏览，对我小白很不友好。所以我又了解到了typora，不得不说真的太好用了，几乎让人没有一点写作的不适，就像是在word上打字一样流畅。但新的问题是，图片的插入。我又在各大搜索引擎中慢慢寻找，学会了picgo+gitee上传，真是又快又方便。</p><h1 id="总之，我终于初步学会了，不过还在继续尝试更多的玩法"><a href="#总之，我终于初步学会了，不过还在继续尝试更多的玩法" class="headerlink" title="总之，我终于初步学会了，不过还在继续尝试更多的玩法~"></a><strong>总之，我终于初步学会了，不过还在继续尝试更多的玩法~</strong></h1>]]></content>
       
       
+      <categories>
+          
+          <category> 心得体会 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂七杂八 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -24,6 +36,18 @@
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
       
     </entry>
     
